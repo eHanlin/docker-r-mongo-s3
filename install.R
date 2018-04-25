@@ -1,0 +1,5 @@
+install.packages("plumber")
+install.packages("mongolite")
+install.packages("dplyr")
+install.packages("openxlsx")
+install.packages("aws.s3")
